@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com)
-- Live Site URL: (https://)
+- Solution URL: (https://github.com/DMKALALA/Front_end_mentor_html_css)
+- Live Site URL: (https://dmkalala.github.io/Front_end_mentor_html_css/)
 
 ## My process
 
@@ -92,7 +92,7 @@ The qr code could be links to a document or something along those ways. Going to
 
 ## Author
 
-- Frontend Mentor - []()
+- Frontend Mentor - [@DMKALALA](https://www.frontendmentor.io/profile/DMKALALA)
 
 ## Acknowledgments
 
