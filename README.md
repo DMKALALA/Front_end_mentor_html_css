@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
-- Live Site URL: (https://arekkusu17.github.io/QR-code-component-challenge/)
+- Solution URL: (https://github.com)
+- Live Site URL: (https://)
 
 ## My process
 
@@ -47,25 +47,35 @@ Always open to any comments
 
 
 ```css
-.body {
-	background-color: hsl(212, 45%, 89%);
-	font-size: 15px;
-	font-family: 'Outfit', sans-serif;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	margin: 4rem;
+body{
+    
+    font-family: 'Outfit', sans-serif;
+    background-color: rgba(148, 189, 194, 0.397);
+    font-size: 11px;
+    color: hsl(0, 0%, 0%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 8px;
+    text-align: center;
+    height: 100vh; /* we needed to include height:100vh to make it full  another way you do it is by making body,html{ height:100%;}*/
+    /*
+    100VH would represent 100% of the viewport's height, or the full height of the screen. 
+    And of course, VW stands for “viewport width”, which is the viewable screen's width. 
+    100VW would represent 100% of the viewport's width, or the full width of the screen.*/
 }
 
-.card {
-	background-color: hsl(0, 0%, 100%);
-	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-	border-radius: 0.625rem;
-	width: 200px;
-	padding: 0.9rem;
-	margin-bottom: 1rem;
+.content{
+    background-color: white;
+    max-width: 250px;
+    padding: 10px;
+    border: white solid 3px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
 }
+
 
 ```
 
@@ -82,7 +92,7 @@ The qr code could be links to a document or something along those ways. Going to
 
 ## Author
 
-- Frontend Mentor - [@Arekkusu17](https://www.frontendmentor.io/profile/Arekkusu17)
+- Frontend Mentor - []()
 
 ## Acknowledgments
 
