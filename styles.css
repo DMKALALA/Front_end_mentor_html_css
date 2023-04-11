@@ -14,7 +14,10 @@ body{
     margin: 8px;
     text-align: center;
     height: 100vh; /* we needed to include height:100vh to make it full  another way you do it is by making body,html{ height:100%;}*/
-    
+    /*
+    100VH would represent 100% of the viewport's height, or the full height of the screen. 
+    And of course, VW stands for “viewport width”, which is the viewable screen's width. 
+    100VW would represent 100% of the viewport's width, or the full width of the screen.*/
 }
 
 .content{
