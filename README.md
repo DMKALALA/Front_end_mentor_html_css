@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./mobile-preview.jpg)
+![](./Screenshot from 2023-04-11 10-49-49.png)
+
 
 
 ### Links
