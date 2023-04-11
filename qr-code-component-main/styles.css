@@ -1,0 +1,45 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgba(148, 189, 194, 0.397);
+    font-size: 11px;
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container{
+    background-color: white;
+    width: 200px;
+    padding: 10px;
+    border: white solid 3px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+
+    gap: 8px;
+}
+
+.text1{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.text2{
+    color: grey;
+}
+
+img{
+    width: 200px;
+    border-radius: 5px;
+}
