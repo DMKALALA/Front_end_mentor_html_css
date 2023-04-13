@@ -13,19 +13,26 @@
   
 </head>
 <body>
-  
-    <div class="content">
+  <!--In order to fix the accessibility issues:
+
+  You need to replace <div class="content"> with the <main class="content"> tag. 
+  You'd better use Semantic HTML, and you can also reach more information about it from Using Semantic HTML Tags Correctly.
+  Each main content needs to include at least h1 element so 
+  you should use one <h1> element in the <main> tag. 
+  You can replace your <p class="text1">Improve your front-end skills by building project</p> element with 
+  the <h1 class="text1">Improve your front-end skills by building projects</h1> element.-->
+    <main class="content">
       
       <img src="./images/image-qr-code.png" alt="QRcode">
       
       
       <div class="text">
-          <p class="text1">Improve your front-end skills by building project</p>
+          <h1 class="text1">Improve your front-end skills by building project</h1>
           <p class="text2">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
             </p>
       </div>
       
-    </div>
+    </main>
     
    <footer>
     <div class="attribution">
