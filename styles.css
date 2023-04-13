@@ -4,7 +4,7 @@
 body{
     
     font-family: 'Outfit', sans-serif;
-    background-color: rgba(148, 189, 194, 0.397);
+    background-color: hsl(212, 45%, 89%);
     font-size: 11px;
     color: hsl(0, 0%, 0%);
     display: flex;
